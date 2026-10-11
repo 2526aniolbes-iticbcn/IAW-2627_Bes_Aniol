@@ -1,13 +1,12 @@
-
 # Implementació d'Aplicacions Web
 
-**Cicle formatiu:** ASIX (Administració de Sistemes Informàtics en Xarxa)
+**Cicle formatiu:** ASIX (Administració de Sistemes Informàtics en Xarxa)  
 **Insitut:** ITIC BCN  
 **Classe:** ASIX2B
 
 ## 📚 Descripció
 
-Aquest repositori recull les pràctiques, els exercicis i les activitats realitzats durant el curs de l'assignatura **Implementació d'Apps Web**.
+Aquest repositori recull les pràctiques, els exercicis i les activitats realitzats durant el curs de l'assignatura **Implementació d'Aplicacions Web**.
 
 Cada activitat està organitzada en una carpeta independent.
 
@@ -28,7 +27,7 @@ Cada pràctica o exercici disposa de la seva pròpia carpeta, que conté els fit
 
 L'estructura del repositori segueix aquest model:
 
-    implementacio-apps-web/
+    implementacio-aplicacions-web/
     ├── README.md
     ├── practica-01/
     │   └── ...
